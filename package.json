@@ -1,0 +1,12 @@
+{
+    "name": "socket-chat",
+    "version": "0.0.1",
+    "description": "socket app",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.2.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.3.0"
+    }
+}
